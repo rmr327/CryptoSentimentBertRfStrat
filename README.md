@@ -1,5 +1,5 @@
-# CiCd Automation Template for Python Projects
-### by Rakeen Rouf
+# Cryptocurrency Algorithmic Trading Strategy: Using Sentiment Analysis with BERT LLM, Google Search Trends, Twitter Sentiment, Technical Signals, and Random Forest Modeling
+### by Rakeen Rouf, Tianji Rao, Mike Lund, Ching-Lung Hsu
 
 [![PythonCiCd](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml)
 
