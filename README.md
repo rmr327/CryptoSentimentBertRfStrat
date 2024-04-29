@@ -12,7 +12,7 @@ https://github.com/nogibjj/Flamingo-ML
 
 ## Link to Quant Connect Code 
 
-This project was completed on Quant Connect, this repo just serves as ashowcase. Please access orginal environment via the link below.
+This project was completed on Quant Connect, this repo just serves as a showcase. Please access orginal environment via the link below.
 
 https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c627c25974c434ac68ec717db7a0e4f0.html
 
