@@ -1,4 +1,4 @@
-# A Novel Algorithmic Crypto Trading Strategy with Local LLM Sentimental Analysis, Memory Features & Random Forest Models
+# A Novel Algorithmic Cryptocurrency Trading Strategy with Local LLM Sentimental Analysis, Memory Features & Random Forest Models
 ### by Rakeen Rouf, Tianji Rao, Mike Lund, Ching-Lung Hsu
 
 [![PythonCiCd](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml)
