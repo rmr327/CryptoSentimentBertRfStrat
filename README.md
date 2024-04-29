@@ -10,6 +10,12 @@
 
 https://github.com/nogibjj/Flamingo-ML
 
+## Link to Quant Connect Code 
+
+This project was completed on Quant Connect, this repo just serves as ashowcase. Please access orginal environment via the link below.
+
+https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c627c25974c434ac68ec717db7a0e4f0.html
+
 ## Abstract
 
 Cryptocurrencies are increasingly recognized as a compelling asset class, marked by swiftly growing market capitalization and low barriers to entry for trading. However, volatile and speculative cryptocurrency prices pose significant challenges for return prediction using traditional financial approaches. Our team undertook a novel investigation in this study to delineate the complex relationship between cryptocurrency returns and human sentiment. We developed a supervised machine learning framework that merges fundamental and technical indicators with cutting-edge sentiment analysis from various data streams. Our methodology incorporated a baseline linear regression model, further enhanced by a Random Forest model. These models underwent rigorous testing to confirm their robustness and reliability in making predictions. Our findings represent a substantial advancement in predictive accuracy and model interpretability, offering crucial insights for investment strategies within the cryptocurrency domain.
