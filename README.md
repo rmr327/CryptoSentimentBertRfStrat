@@ -4,7 +4,7 @@
 [![PythonCiCd](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/rmr327/cicd_python_template/actions/workflows/python_ci_cd.yml)
 
 ---
-## Link to experimentation Repo
+## Link to experimentation Repo (Rakeen lead this team concurrently for doing the research groound work for our strategy)
 
 https://github.com/nogibjj/Flamingo-ML
 
@@ -44,6 +44,6 @@ The table below compared performance of the above strategy vs a benchmark buy an
 
 
 ## Conclusion
-This research introduces a pioneering approach to predicting cryptocurrency trends, emphasizing the intricate interplay between human sentiment and sophisticated machine-learning techniques. The combination of Bitcoin historical data, technical and fundamental indicators, and sentiment analysis, particularly from social media and financial news, has demonstrated a marked improvement in predicting crypto market movements.
+This research introduces a pioneering approach to predicting cryptocurrency trends, emphasizing the intricate interplay between human sentiment and sophisticated machine-learning techniques. The combination of Bitcoin historical data, technical and fundamental indicators, and sentiment analysis, particularly from financial news, has demonstrated a marked improvement in predicting crypto market movements.
 
 
