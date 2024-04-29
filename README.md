@@ -46,6 +46,6 @@ The table below compared performance of the above strategy vs a benchmark buy an
 
 
 ## Conclusion
-This research introduces a pioneering approach to predicting cryptocurrency trends, emphasizing the intricate interplay between human sentiment and sophisticated machine-learning techniques. The combination of Bitcoin historical data, technical and fundamental indicators, and sentiment analysis, particularly from financial news, has demonstrated a marked improvement in predicting crypto market movements.
+This research introduces a pioneering approach to predicting cryptocurrency trends, emphasizing the intricate interplay between human sentiment and sophisticated machine-learning techniques. The combination of Bitcoin historical data, technical and fundamental indicators, and sentiment analysis, particularly from financial news, has demonstrated a marked improvement in predicting crypto market movements. Additionally, our successful algorithmic trading strategy utilizes the alpha signal generated from the predictive model, further solidifying the efficacy of our approach.
 
 
