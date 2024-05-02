@@ -14,7 +14,8 @@ https://github.com/nogibjj/Flamingo-ML
 
 This project was completed on Quant Connect, this repo just serves as a showcase. Please access orginal environment via the link below.
 
-https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c627c25974c434ac68ec717db7a0e4f0.html
+[https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c627c25974c434ac68ec717db7a0e4f0.html](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
+cfd7865f5bd0c64928241.html)
 
 ## Abstract
 
@@ -43,12 +44,20 @@ Note, time period in literature was different from our model due to data availab
 <img width="522" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/6e3f4364-538a-4334-b974-1d8cc6ef1969">
 
 ## Trading Performance
-<img width="1067" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/17424f0b-0bb5-43ee-a1ca-ca5d8e30ed6f">
+<img width="1179" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/b4c2b4b3-0462-425a-ad17-ed06835dfca7">
 
-back test link: https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c627c25974c434ac68ec717db7a0e4f0.html
+back test link: [https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
+cfd7865f5bd0c64928241.html](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
+cfd7865f5bd0c64928241.html)
 
 The table below compared performance of the above strategy vs a benchmark buy and hold strategy (80% BTC 20% ETH See report for details).
 <img width="1069" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/f95792df-3ba9-4503-afc9-d2528befee0b">
+
+## Key Contributions
+**Enhancing Signal Quality**: We tackled the problem within the 15DAR domain, thereby improving the signal to noise ratio, significantly improving prediction accuracy. Daily returns have too much noise.
+**Advanced Sentiment Analysis**: Leveraging cutting-edge Large Language Models, we improved on traditional lexicon-based approaches. This advanced methodology enabled us to capture nuanced market sentiment more effectively. Furthermore, we have implemented this model locally, which means our data is not shared with outside organizations.
+**Incorporating Memory Features**: We introduced the concept of memory features, specifically working memory, which offers a dynamic perspective on market conditions. By contrast, traditional lagged features provide only a static snapshot of historical data. 
+**Original Trading Strategy**: We developed an original trading strategy based on the modified Kelly criterion, tailored to the importance of the predictive signal. This approach enabled us to dynamically adjust risk exposure based on signal significance, leading to more efficient capital allocation and improved performance.
 
 
 ## Conclusion
