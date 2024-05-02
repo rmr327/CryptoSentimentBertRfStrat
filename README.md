@@ -26,7 +26,7 @@ Cryptocurrencies are increasingly recognized as a compelling asset class, marked
 
 ## Experiments
 
-<img width="488" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/dae90390-8336-4cfa-9ddb-d60349611291">
+<img width="1008" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/3c4365f5-48aa-4816-b00a-096d13e37773">
 
 ## Predicted 15 Day moving Average Returns (15DAR) Transformation to Daily Direction and Magnitude Prediction
 
