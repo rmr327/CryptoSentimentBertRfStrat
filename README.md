@@ -52,8 +52,11 @@ The table below compared performance of the above strategy vs a benchmark buy an
 
 ## Key Contributions
 **Enhancing Signal Quality**: We tackled the problem within the 15DAR domain, thereby improving the signal to noise ratio, significantly improving prediction accuracy. Daily returns have too much noise.
+
 **Advanced Sentiment Analysis**: Leveraging cutting-edge Large Language Models, we improved on traditional lexicon-based approaches. This advanced methodology enabled us to capture nuanced market sentiment more effectively. Furthermore, we have implemented this model locally, which means our data is not shared with outside organizations.
+
 **Incorporating Memory Features**: We introduced the concept of memory features, specifically working memory, which offers a dynamic perspective on market conditions. By contrast, traditional lagged features provide only a static snapshot of historical data. 
+
 **Original Trading Strategy**: We developed an original trading strategy based on the modified Kelly criterion, tailored to the importance of the predictive signal. This approach enabled us to dynamically adjust risk exposure based on signal significance, leading to more efficient capital allocation and improved performance.
 
 
