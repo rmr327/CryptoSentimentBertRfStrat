@@ -14,8 +14,8 @@ https://github.com/nogibjj/Flamingo-ML
 
 This project was completed on Quant Connect, this repo just serves as a showcase. Please access orginal environment via the link below.
 
-[https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c627c25974c434ac68ec717db7a0e4f0.html](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
-cfd7865f5bd0c64928241.html)
+https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
+cfd7865f5bd0c64928241.html
 
 ## Abstract
 
@@ -46,9 +46,8 @@ Note, time period in literature was different from our model due to data availab
 ## Trading Performance
 <img width="1179" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/b4c2b4b3-0462-425a-ad17-ed06835dfca7">
 
-back test link: [https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
-cfd7865f5bd0c64928241.html](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
-cfd7865f5bd0c64928241.html)
+back test link: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_78aa6cba58f
+cfd7865f5bd0c64928241.html
 
 The table below compared performance of the above strategy vs a benchmark buy and hold strategy (80% BTC 20% ETH See report for details).
 <img width="1069" alt="image" src="https://github.com/rmr327/CryptoSentimentBertRfStrat/assets/36940292/f95792df-3ba9-4503-afc9-d2528befee0b">
